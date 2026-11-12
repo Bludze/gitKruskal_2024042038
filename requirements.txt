@@ -1,0 +1,3 @@
+# 本项目仅依赖 Python 标准库（tkinter 随 Python 安装）
+# 开发与测试依赖见下
+pytest>=7.0
